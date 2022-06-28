@@ -1,5 +1,25 @@
 ### Hi there 👋
 
+<a href="https://www.instagram.com/frazer_garcia/">
+  <img align="left" alt="Frazer's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+<a href="https://discord.gg/sadofrazer">
+  <img align="left" alt="Frazer's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="https://twitter.com/sadofrazer">
+  <img align="left" alt="Frazer | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/sado-frazer-devops">
+  <img align="left" alt="Frazer's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=sadofrazer.sadofrazer)
+
+<br />
+
+Hi, i'm [Frazer SADO](https://www.linkedin.com/in/sado-frazer-devops), a passionate self-taught JAVA full stack web developer and also a Devops engineer from France. My passion for software is to imagine ideas and bring them to life end to end from the basic architecture, to the finished product, including of course all the other development processes, automation, continuous integration and continuous deployment.
+I have been very passionate about automation since I was little, which is why I love the Devops culture and my main objective is to always continue to improve my skills in this area.
+
 ![Frazer SADO's GitHub stats](https://github-readme-stats.vercel.app/api/?username=sadofrazer&show_owner)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sadofrazer&repo=icgroup&show_owner=true)](https://github.com/sadofrazer/icgroup)   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sadofrazer&repo=ic-webapp&show_owner=true)](https://github.com/sadofrazer/ic-webapp)
