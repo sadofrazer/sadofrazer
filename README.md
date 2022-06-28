@@ -3,7 +3,14 @@
 <!--
 **sadofrazer/sadofrazer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![Frazer SADO's GitHub stats](https://github-readme-stats.vercel.app/api/?username=sadofrazer&show_owner)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sadofrazer&repo=student-list&show_owner=true)](https://github.com/sadofrazer/icgroup)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sadofrazer&repo=ic-webapp&show_owner=true)](https://github.com/sadofrazer/ic-webapp)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadofrazer&langs_count=10&hide=javascript,html,php,python)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
