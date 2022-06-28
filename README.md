@@ -3,7 +3,7 @@
 <a href="https://www.instagram.com/frazer_garcia/">
   <img align="left" alt="Frazer's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://discord.gg/sadofrazer">
+<a href="https://discord.gg/wwd4WFgv">
   <img align="left" alt="Frazer's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://twitter.com/sadofrazer">
