@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**sadofrazer/sadofrazer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ![Frazer SADO's GitHub stats](https://github-readme-stats.vercel.app/api/?username=sadofrazer&show_owner)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sadofrazer&repo=student-list&show_owner=true)](https://github.com/sadofrazer/icgroup)
@@ -20,4 +17,4 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
