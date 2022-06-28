@@ -9,7 +9,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sadofrazer&repo=ansible_k8s&show_owner=true)](https://github.com/sadofrazer/ansible_k8s)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadofrazer&langs_count=10&hide=javascript,html,php,Blade,Less)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadofrazer&langs_count=10&hide=javascript,html,php,Blade,Less,CSS,Makefile)
 
 
 - 🔭 I’m currently working on ...
