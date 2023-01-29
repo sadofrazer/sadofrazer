@@ -22,13 +22,13 @@ I'm [Frazer SADO](https://www.linkedin.com/in/sado-frazer-devops), DevOps Engine
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sadofrazer&repo=icgroup&show_owner=true)](https://github.com/sadofrazer/icgroup)   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sadofrazer&repo=ic-webapp&show_owner=true)](https://github.com/sadofrazer/ic-webapp)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sadofrazer&repo=it_training_rest-api&show_owner=true)](https://github.com/sadofrazer/it_training_rest-api)                                                                                                       [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sadofrazer&repo=it_training_angular_frontend&show_owner=true)](https://github.com/sadofrazer/it_training_angular_frontend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sadofrazer&repo=it_training_rest-api&show_owner=true&theme=transparent)](https://github.com/sadofrazer/it_training_rest-api)                                                                                                       [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sadofrazer&repo=it_training_angular_frontend&show_owner=true&theme=transparent)](https://github.com/sadofrazer/it_training_angular_frontend)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sadofrazer&repo=ansible_k8s&show_owner=true)](https://github.com/sadofrazer/ansible_k8s)                                                                                                         [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sadofrazer&repo=tower_ci&show_owner=true)](https://github.com/sadofrazer/tower_ci)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sadofrazer&repo=ansible_k8s&show_owner=true&theme=transparent)](https://github.com/sadofrazer/ansible_k8s)                                                                                                         [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sadofrazer&repo=tower_ci&show_owner=true&theme=transparent)](https://github.com/sadofrazer/tower_ci)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadofrazer&langs_count=10&hide=javascript,html,php,Blade,Less,CSS,Makefile)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadofrazer&langs_count=10&hide=javascript,html,php,Blade,Less,CSS,Makefile&theme=transparent)
 
 
 - 🔭 I’m currently working on ...
