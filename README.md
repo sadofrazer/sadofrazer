@@ -1,16 +1,16 @@
 ### Hi there 👋
 
 <a href="https://www.instagram.com/frazer_garcia/">
-  <img align="left" alt="Frazer's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img align="left" alt="Frazer's Instagram" width="22px" src="https://raw.githubusercontent.com/sadofrazer/sadofrazer/main/icons8-instagram.svg" />
 </a>
 <a href="https://discord.gg/unHHjUNA">
-  <img align="left" alt="Frazer's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Frazer's Discord" width="22px" src="https://raw.githubusercontent.com/sadofrazer/sadofrazer/main/icons8-discord.svg" />
 </a>
 <a href="https://twitter.com/sadofrazer">
-  <img align="left" alt="Frazer | Twitter" width="22px" src="https://icons8.com/icon/119014/twitter" />
+  <img align="left" alt="Frazer | Twitter" width="22px" src="https://raw.githubusercontent.com/sadofrazer/sadofrazer/main/icons8-twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/sado-frazer-devops">
-  <img align="left" alt="Frazer's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Frazer's LinkedIN" width="22px" src="https://raw.githubusercontent.com/sadofrazer/sadofrazer/main/icons8-linkedin.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=sadofrazer.sadofrazer)
