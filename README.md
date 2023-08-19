@@ -13,7 +13,7 @@
   <img align="left" alt="Frazer's LinkedIN" width="22px" src="https://raw.githubusercontent.com/sadofrazer/sadofrazer/main/icons8-linkedin.svg" />
 </a>
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=sadofrazer.visitor-badge)
+![](https://visitor-badge.glitch.me/badge?page_id=sadofrazer.sadofrazer)
 
 <br /> 
 
