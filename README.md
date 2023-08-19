@@ -13,7 +13,8 @@
   <img align="left" alt="Frazer's LinkedIN" width="22px" src="https://raw.githubusercontent.com/sadofrazer/sadofrazer/main/icons8-linkedin.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=sadofrazer.sadofrazer)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=sadofrazer.visitor-badge)
+
 <br /> 
 
 I'm [Frazer SADO](https://www.linkedin.com/in/sado-frazer-devops), DevOps Engineer and also passionate self-taught JAVA J2E full stack web developer living in France. My passion for software consists in imagining new ideas and bringing them to life end to end, from the basic architecture to the finished product, including of course all the other development, automation, continuous integration and continuous deployment processes. I have indeed been very passionate about automation since I was little, which is why I love the Devops culture and my main goal is to always continue to improve my skills in this area.
