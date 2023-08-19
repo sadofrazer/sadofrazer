@@ -7,7 +7,7 @@
   <img align="left" alt="Frazer's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://twitter.com/sadofrazer">
-  <img align="left" alt="Frazer | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Frazer | Twitter" width="22px" src="https://icons8.com/icon/119014/twitter" />
 </a>
 <a href="https://www.linkedin.com/in/sado-frazer-devops">
   <img align="left" alt="Frazer's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
